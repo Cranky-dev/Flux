@@ -1,2 +1,7 @@
 body {
   background-color: OliveDrab;
+  color: white;
+}
+body[old="true"] {
+  
+}
