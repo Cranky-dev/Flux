@@ -2,8 +2,8 @@ body {
   background-color: OliveDrab;
   color: white;
 }
-body[old="true"]{
-  
+.box {
+  background-color: DarkOliveGreen;
 }
 .circle {
   height: 150px;
@@ -12,3 +12,9 @@ body[old="true"]{
   border-radius: 50%;
   display: inline-block;
   }
+.number {
+  background-color: Purple;
+}
+.symbol {
+  background-color: Crimson;
+}
